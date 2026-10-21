@@ -4,6 +4,7 @@ import Framework7Vue, { registerComponents } from 'framework7-vue/bundle';
 import 'framework7/css/bundle';
 import './css/app.css';
 import App from './App.vue';
+import 'framework7-icons/css/framework7-icons.css';
 
 Framework7.use(Framework7Vue);
 
